@@ -1,0 +1,7 @@
+C:\Users\whdms\Desktop\addr2line\Addr2Line\Addr2Line\bin\Release\Addr2Line.exe
+C:\Users\whdms\Desktop\addr2line\Addr2Line\Addr2Line\bin\Release\Addr2Line.pdb
+C:\Users\whdms\Desktop\addr2line\Addr2Line\Addr2Line\obj\Release\Addr2Line.csproj.AssemblyReference.cache
+C:\Users\whdms\Desktop\addr2line\Addr2Line\Addr2Line\obj\Release\Addr2Line.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdms\Desktop\addr2line\Addr2Line\Addr2Line\obj\Release\Addr2Line.csproj.CoreCompileInputs.cache
+C:\Users\whdms\Desktop\addr2line\Addr2Line\Addr2Line\obj\Release\Addr2Line.exe
+C:\Users\whdms\Desktop\addr2line\Addr2Line\Addr2Line\obj\Release\Addr2Line.pdb
